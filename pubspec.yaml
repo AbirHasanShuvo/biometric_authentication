@@ -38,6 +38,8 @@ dependencies:
   pinput: ^5.0.2
   shared_preferences: ^2.5.3
   get: ^4.7.2
+  device_info_plus: ^12.2.0
+  app_settings: ^6.1.1
 
 
 dev_dependencies:
